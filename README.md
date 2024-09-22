@@ -73,7 +73,7 @@ are already in alphabetical order, the permutation algorithm shown in class will
 evaluate the permutations in lexicographical order. Thus, to solve this program, the first 
 valid solution found while running the algorithm will be the correct answer.)
 
-Sample Input 
+Sample Input:  
 5 2 
 ALIA 1 
 BELINDA 0 
@@ -83,10 +83,10 @@ EDWARD 1
 ALIA CARLOS 
 BELINDA EDWARD 
 
-Sample Output 1 
+Sample Output 1: 
 10 
 
-Sample Output 2 
+Sample Output 2:
 ALIA 
 BELINDA 
 CARLOS 
